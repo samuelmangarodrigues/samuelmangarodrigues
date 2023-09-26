@@ -2,7 +2,9 @@
 
 
 - 🔭 Estou à procura de uma vaga de desenvolvedor Front End.
-- 🌱 Atualmente finalizando o curso da Kenzie Academy Brasil Full Stack.
+- 🌱 Finalizei à um tempo o curso da Kenzie Academy Brasil Full Stack.
+- 🌱 Atualmente atuando como Desenvolvedor Full Stack pela Drz Corporation.
+  
 
 <div align="center">
   <a href="https://github.com/samuelmangarodrigues">
