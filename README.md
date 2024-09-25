@@ -1,9 +1,9 @@
 ### Olá!Eu sou o Samuel Manga Rodrigues👋
 
 
-- 🔭 Estou à procura de uma vaga de desenvolvedor Front End.
-- 🌱 Finalizei à um tempo o curso da Kenzie Academy Brasil Full Stack.
-- 🌱 Atualmente atuando como Desenvolvedor Full Stack pela Drz Corporation.
+- 🔭 Atualmente trabalhando como desenvolvedor Full Stack.
+- 🌱 Cursando Engenharia de Software.
+- 🌱 Full Stack Developer Kenzie Academy Brazil.
   
 
 <div align="center">
