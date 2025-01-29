@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalhando como desenvolvedor Full Stack.
-- 🌱 Cursando Engenharia de Software.
+- 🌱 Cursando ADS na PUCRS.
 - 🌱 Full Stack Developer Kenzie Academy Brazil.
   
 
